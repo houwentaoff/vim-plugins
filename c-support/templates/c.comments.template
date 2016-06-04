@@ -45,7 +45,7 @@
 == Comments.file description impl == map:cfdi, shortcut:c, start, noindent ==
 /*
  * =====================================================================================
- *       Copyright (c), 2013-2020, Sobey.
+ *       Copyright (c), 2013-2020, xxx.
  *       Filename:  |FILENAME|
  *
  *    Description:  <CURSOR>
@@ -65,7 +65,7 @@
 == Comments.file description header == map:cfdh, shortcut:h, start, noindent ==
 /*
  * =====================================================================================
- *       Copyright (c), 2013-2020, Sobey.
+ *       Copyright (c), 2013-2020, xxx.
  *       Filename:  |FILENAME|
  *
  *    Description:  <CURSOR>

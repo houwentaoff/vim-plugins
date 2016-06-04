@@ -2,13 +2,13 @@
 §  User Macros
 § ==========================================================
 
-SetMacro( 'AUTHOR',      'Sean. Hou' )
+SetMacro( 'AUTHOR',      'Joy. Hou' )
 SetMacro( 'AUTHORREF',   'hwt' )
 SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
-SetMacro( 'EMAIL',       'houwentaoff@gmail.com' )
+SetMacro( 'EMAIL',       '544088192@qq.com' )
 SetMacro( 'LICENSE',     'GNU General Public License' )
-SetMacro( 'ORGANIZATION','Sobey' )
+SetMacro( 'ORGANIZATION','xxx' )
 
 SetStyle( 'C' )
 
